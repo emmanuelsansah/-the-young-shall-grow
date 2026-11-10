@@ -1,0 +1,8 @@
+{
+  "name": "THE YOUNG SHALL GROW - Quality E-Commerce Ghana",
+  "description": "Where Quality Meets Affordability. Premium Ghanaian retail store in Tarkwa (Pepesa) offering Ankara & Kente fabrics, sewing materials, Ecolac bags, gas cylinders, and nationwide delivery across Ghana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
